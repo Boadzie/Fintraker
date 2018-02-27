@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Build form
+- Routes -> search_stocks
+- Controller -> action - stock_controller.rb search_stocks
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Stock Restrictions
+-Users can track max of 10 stocks
+-Same stock cannot be tracked twice

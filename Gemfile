@@ -22,6 +22,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem "font-awesome-rails"
 gem 'stock_quote'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
