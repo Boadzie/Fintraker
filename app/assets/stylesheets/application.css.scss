@@ -17,6 +17,18 @@
  */
  @import "font-awesome";
 
+
+ .navbar-default {
+  background-color: rgb(241, 238, 238);
+  border-color: #E7E7E7;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #000000;
+}
+
+
  .results-block{
    display: inline-block;
  }
@@ -56,3 +68,23 @@
  .text-right{
    padding-right:-10px; 
  }
+
+ #space{
+   margin-top: 30px;
+ }
+
+ #image{
+   background-image: asset_url("entrepreneur-1340649_1920.jpg");
+   width: 81em;
+ }
+
+ .text{
+   color: white;
+
+ }
+
+ .big{
+   font-size: 30px;
+ }
+
+ 
